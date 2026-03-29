@@ -1,7 +1,7 @@
 <div align="center">
  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0OpenArchiCN~%3BWelcome+to+OpenArchiCN~"/>
-  
+
   <div>
     <img width="100" src="https://github.com/OpenArchiCN/.github/blob/main/profile/assets/huanying.gif?raw=true"/>
   </div>
@@ -54,7 +54,7 @@
       <b>3、你想知道社区有哪些待建设的课题？</b>
     </td>
     <td align="left">
-      请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/OPPORTUNITY.md">《OpenArchiCN开源机遇清单》</a>
+      请看：<a target="_blank" href="https://baidu.com">《OpenArchiCN开源机遇清单》</a>
     </td>
   </tr>
   <tr>
